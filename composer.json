@@ -1,0 +1,20 @@
+{
+    "name": "ruzdev/ohmycoffe",
+    "description": "sistema de reservaciones para cafeteria",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "angel david hernandez ruiz",
+            "email": "angelruiz.dh@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "ruzdev\\":"src/"
+        }
+    }
+}
